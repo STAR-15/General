@@ -1,0 +1,6 @@
+#VS
+*.suo
+
+
+General.Admin/obj/*
+General.Admin/bin/*

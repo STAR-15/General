@@ -146,6 +146,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\css\login.css" />
     <Content Include="Content\css\sb-admin-2.min.css" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\sb-admin-2.min.js" />
@@ -1983,9 +1984,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\User\Login.cshtml" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Views\Shared\_LayoutLogin.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\General.Server\General.Server.csproj">
