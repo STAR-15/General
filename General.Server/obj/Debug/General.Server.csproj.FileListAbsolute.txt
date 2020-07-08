@@ -1,0 +1,10 @@
+C:\EdenHuang\GitHubProjects\General\General.Server\bin\Debug\General.Server.dll
+C:\EdenHuang\GitHubProjects\General\General.Server\bin\Debug\General.Server.pdb
+C:\EdenHuang\GitHubProjects\General\General.Server\bin\Debug\Dapper.dll
+C:\EdenHuang\GitHubProjects\General\General.Server\bin\Debug\System.Data.SQLite.dll
+C:\EdenHuang\GitHubProjects\General\General.Server\bin\Debug\Dapper.pdb
+C:\EdenHuang\GitHubProjects\General\General.Server\bin\Debug\Dapper.xml
+C:\EdenHuang\GitHubProjects\General\General.Server\bin\Debug\System.Data.SQLite.xml
+C:\EdenHuang\GitHubProjects\General\General.Server\obj\Debug\General.Server.csprojResolveAssemblyReference.cache
+C:\EdenHuang\GitHubProjects\General\General.Server\obj\Debug\General.Server.dll
+C:\EdenHuang\GitHubProjects\General\General.Server\obj\Debug\General.Server.pdb

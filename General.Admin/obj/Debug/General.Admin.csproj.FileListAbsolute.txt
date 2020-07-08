@@ -34,3 +34,10 @@ C:\EdenHuang\GitHubProjects\General\General.Admin\bin\System.Web.WebPages.Razor.
 C:\EdenHuang\GitHubProjects\General\General.Admin\obj\Debug\General.Admin.csprojResolveAssemblyReference.cache
 C:\EdenHuang\GitHubProjects\General\General.Admin\obj\Debug\General.Admin.dll
 C:\EdenHuang\GitHubProjects\General\General.Admin\obj\Debug\General.Admin.pdb
+C:\EdenHuang\GitHubProjects\General\General.Admin\bin\General.Server.dll
+C:\EdenHuang\GitHubProjects\General\General.Admin\bin\System.Data.SQLite.dll
+C:\EdenHuang\GitHubProjects\General\General.Admin\bin\Dapper.dll
+C:\EdenHuang\GitHubProjects\General\General.Admin\bin\General.Server.pdb
+C:\EdenHuang\GitHubProjects\General\General.Admin\bin\System.Data.SQLite.xml
+C:\EdenHuang\GitHubProjects\General\General.Admin\bin\Dapper.pdb
+C:\EdenHuang\GitHubProjects\General\General.Admin\bin\Dapper.xml
