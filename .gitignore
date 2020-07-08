@@ -1,6 +1,4 @@
 #VS
-*.suo
-
-
+General.v12.suo
 General.Admin/obj/*
-General.Admin/bin/*
+General.Admin/bin/
