@@ -1,7 +1,7 @@
 #VS
 General.v12.suo
-General.Admin/obj/*
-General.Admin/bin/
 packages/
 General.Server/obj
 General.Server/bin
+General.Admin/bin/
+General.Admin/obj/
