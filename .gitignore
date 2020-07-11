@@ -1,7 +1,10 @@
-#VS
 General.v12.suo
 packages/
-General.Server/obj
-General.Server/bin
+General.Server/obj/
+General.Server/bin/
 General.Admin/bin/
 General.Admin/obj/
+.vs/
+.git/
+UpgradeLog.htm
+.gitignore.bak
