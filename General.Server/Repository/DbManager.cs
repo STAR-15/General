@@ -37,9 +37,6 @@ namespace General.Server.Repository
         public static IDbConnection NewConnection()
         {
             return new SQLiteConnection(sqlConnectionString.Value.ConnectionString);
-            //var dbconn = new SQLiteConnection(sqlConnectionString.Value.ConnectionString);
-            //dbconn.Open();
-            //return dbconn;
         }
 
         #region Setup DataBase
@@ -56,17 +53,11 @@ namespace General.Server.Repository
                             UserId INTEGER PRIMARY KEY autoincrement,
                             UserName TEXT NOT NULL,
                             Password TEXT NOT NULL
-                        );");
-//                conn.TryExecute(@"
-//                    INSERT INTO User
-//                    (
-//                        UserName,
-//                        Password,
-//                    )VALUES
-//                    (
-//                        'Eden',
-//                        'jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI='      
-//                    );");
+                        );
+                    insert into User values 
+                    (NULL,
+                    'Eden',
+                    'jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=');");
             }
 
             if (File.Exists(dbFileName)) return true;
